@@ -1,0 +1,120 @@
+- 
+  id: 0
+  name: "Mathias"
+  surname: "HOUNGBO"
+  title: "Co-Lead & General management"
+  thumbnailUrl: MathiasHoungbo.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG Cotonou", title: "Google Developer Group Cotonou"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+"}
+    - {name: "twitter", link: "https://twitter.com/mhoungbo"}
+    - {name: "facebook", link: "https://facebook.com/mathias.houngbo"}
+    - {name: "github", link: "https://github.com/mhoungbo"}
+    - {name: "site", link: "http://mathias.houngbo.net/"}
+- 
+  id: 1
+  name: "Gilles"
+  surname: "KOUNOU"
+  title: "Co-Lead  & Content Manager"
+  thumbnailUrl: GillesKounou.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG Abomey-Calavi", title: "Google Developer Group Abomey-Calavi"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+GillesKounou"}
+    - {name: "twitter", link: "https://twitter.com/GillesKounou"}
+    - {name: "facebook", link: "https://facebook.com/gilles.kounou"}
+    - {name: "github", link: "https://github.com/GillesKounou"}
+    - {name: "site", link: "http://www.gilleskounou.com/"}
+-
+  id: 2
+  name: "Marlise"
+  surname: "MONTCHO"
+  title: "WTM Session"
+  thumbnailUrl: MarliseMontcho.jpg
+  team: true
+  ribbon:
+    - {abbr: "WTM Cotonou", title: "Women Tech Maker Cotonou"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MONTCHOMarlise"}
+    - {name: "twitter", link: "https://twitter.com/marlisemontcho"}
+    - {name: "facebook", link: "https://www.facebook.com/marlisemontcho"}
+    - {name: "github", link: "https://github.com/marlisemontcho"}
+    - {name: "site", link: "https://handinewlook.wordpress.com/"}
+-
+  id: 3
+  name: "Rachael"
+  surname: "ORUMOR"
+  title: "WTM Session"
+  thumbnailUrl: RachaelOrumor.jpg
+  team: true
+  ribbon:
+    - {abbr: "WTM Abomey-Calavi", title: "Women Tech Maker Abomey-Calavi"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ORUMORR"}
+    - {name: "twitter", link: "https://twitter.com/ROrumor"}
+    - {name: "facebook", link: "https://www.facebook.com/kim.hansry"}
+    - {name: "github", link: "https://github.com/chegie"}
+    - {name: "site", link: "http://sensorbitgroup.info/"}
+-
+  id: 4
+  name: "Fabrice"
+  surname: "TOHIONON"
+  title: "Sponsors relation"
+  thumbnailUrl: FabriceTohionon.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG Cotonou", title: "Google Developer Group Cotonou"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FabriceTOHIONON"}
+    - {name: "twitter", link: "https://twitter.com/fabriscorol"}
+    - {name: "facebook", link: "https://www.facebook.com/fabriscorol"}
+    - {name: "github", link: "https://github.com/fabriscorol"}
+    - {name: "site", link: "http://fabriscorol.github.io"}
+-
+  id: 5
+  name: "Igor"
+  surname: "KOUCOI"
+  title: "Speakers relation"
+  thumbnailUrl: IgorKoucoi.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG Abomey-Calavi", title: "Google Developer Group Abomey-Calavi"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FabriceTOHIONON"}
+    - {name: "twitter", link: "https://twitter.com/fabriscorol"}
+    - {name: "facebook", link: "https://www.facebook.com/Semevokoucoi"}
+    - {name: "github", link: "https://github.com/sem.koucoi"}
+    - {name: "site", link: "http://"}
+-
+  id: 6
+  name: "Harold"
+  surname: "ADJAHO"
+  title: "Restauration"
+  thumbnailUrl: HaroldAdjaho.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG Cotonou", title: "Google Developer Group Cotonou"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/100341517085386014651/"}
+    - {name: "twitter", link: "https://twitter.com/harold_ach"}
+    - {name: "facebook", link: "https://www.facebook.com/dianors"}
+    - {name: "github", link: "https://github.com/dianors"}
+    - {name: "site", link: "http://www.grandhosters.com/"}
+-
+  id: 7
+  name: "Luc"
+  surname: "ALAPINI"
+  title: "Logistics"
+  thumbnailUrl: LucAlapini.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG Abomey-Calavi", title: "Google Developer Group Abomey-Calavi"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/118109378916545188099/"}
+    - {name: "twitter", link: "https://twitter.com/AlapiniLuc"}
+    - {name: "facebook", link: "https://www.facebook.com/l.alapini"}
+    - {name: "github", link: "https://github.com/l.alapini"}
+    - {name: "site", link: "http://www.enccore.com/"}

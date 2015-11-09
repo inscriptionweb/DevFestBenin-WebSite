@@ -1,0 +1,10 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Père Aupiais", description: "Collège Catholique Père Aupiais", link: "https://www.facebook.com/pages/Coll%C3%A8ge-Catholique-P%C3%A8re-Aupiais/", imageUrl: "google.svg", width: "120px"}
+    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "WTM", description: "Google's Women Techmakers program provides visibility, community, and resources for women in technology.", link: "https://www.womentechmakers.com/", imageUrl: "gdg-x.svg", width: "120px"}
