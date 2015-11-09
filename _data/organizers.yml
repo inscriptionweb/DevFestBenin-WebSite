@@ -1,7 +1,5 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Abomey-Calavi", description: "GDG Abomey-Calavi - Open and volunteer geek community", link: "http://www.gdg-abomeycalavi.org", imageUrl: "GDG_Cotonou.svg"}
+    - {name: "GDG Abomey-Calavi", description: "GDG Abomey-Calavi - Open and volunteer geek community", link: "http://www.gdg-abomeycalavi.org", imageUrl: "GDG_Abomey-Calavi.svg"}
     - {name: "GDG Cotonou", description: "GDG Cotonou - Open and volunteer geek community", link: "http://www.gdg-cotonou.org", imageUrl: "GDG_Cotonou.svg"}
-    - {name: "WTM Abomey-Calavi", description: "WTM Abomey-Calavi - Open and volunteer geek community", link: "http://www.womentechmakers.com", imageUrl: "GDG_Cotonou.svg"}
-    - {name: "WTM Cotonou", description: "WTM Cotonou - Open and volunteer geek community", link: "http://www.womentechmakers.com", imageUrl: "GDG_Cotonou.svg"}
